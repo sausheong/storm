@@ -1,0 +1,10 @@
+load_dotenv
+flask
+waitress
+langchain
+llama-cpp-python
+openai
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+beautifulsoup4
